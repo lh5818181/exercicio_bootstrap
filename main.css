@@ -1,0 +1,16 @@
+.btn {
+    display: block;
+    margin-top: 24px;
+    max-width: 1024px;
+    padding: 10px;
+}
+
+
+input {
+    margin-bottom: 10px;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
